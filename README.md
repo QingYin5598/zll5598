@@ -17,7 +17,7 @@
 # 安装&升级
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/QingYin5598/zll5598/refs/heads/xui/install.sh)
 ```
 
 ## 手动安装&升级
